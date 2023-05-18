@@ -9,7 +9,7 @@ body {
 }
 
 .first {
-  background-image: url("/images/фон 1.png");
+  background-image: url("./images/фон 1.png");
   background-size: no-repeat;
   background-position: center;
   background-size: cover;
